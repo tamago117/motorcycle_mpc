@@ -36,5 +36,8 @@ python3 src/pathTrack/pathTrack.py course1 -g
 - 3d model [Autonomous bicycle](https://autonomous-bicycle.readthedocs.io/en/latest/) (Apache License 2.0)
 - cubic_spline_planner [PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics) (MIT License)
 
+## paper 
+https://ieeexplore.ieee.org/abstract/document/10316887
+
 ## Aknowledge
 This work was supported by JSPS KAKENHI Grant Number 23K03896.
